@@ -1,7 +1,7 @@
 ---
 applications:
 - name: standalone-eureka
-  memory: 512M
+  memory: 1G
   instances: 1
   host: standalone-eureka
   path: target/standalone-eureka-1.0.0.jar
