@@ -1,3 +1,5 @@
+# standalone-eureka is no longer actively maintained by VMware.
+
 # standalone-eureka
 Standalone eureka instance for use on PWS, for experimental and demo purposes.
 
